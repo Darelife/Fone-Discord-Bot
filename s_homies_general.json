@@ -1,0 +1,452 @@
+{
+  "messages": [
+    {
+      "msg_id": "908955620365959168",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "05:45:07, Saturday, 13-November-2021",
+      "msg": "test"
+    },
+    {
+      "msg_id": "909364559867944960",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/909364559675011122/unknown.png"
+      ],
+      "time": "08:50:06, Sunday, 14-November-2021",
+      "msg": "help"
+    },
+    {
+      "msg_id": "909367151125753867",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "270904126974590976",
+      "time": "09:00:24, Sunday, 14-November-2021",
+      "msg": ""
+    },
+    {
+      "msg_id": "909367186806669313",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:00:32, Sunday, 14-November-2021",
+      "msg": "not u dank"
+    },
+    {
+      "msg_id": "909367173502361631",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:00:29, Sunday, 14-November-2021",
+      "msg": "umm"
+    },
+    {
+      "msg_id": "909367167693238292",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:00:28, Sunday, 14-November-2021",
+      "msg": "oh"
+    },
+    {
+      "msg_id": "909368147243565126",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/909368147042258974/unknown.png"
+      ],
+      "time": "09:04:21, Sunday, 14-November-2021",
+      "msg": "oh"
+    },
+    {
+      "msg_id": "909368089236348928",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/909368089022435328/unknown.png"
+      ],
+      "time": "09:04:07, Sunday, 14-November-2021",
+      "msg": "get rekt"
+    },
+    {
+      "msg_id": "909366969613045810",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/909366968971309056/unknown.png"
+      ],
+      "time": "08:59:40, Sunday, 14-November-2021",
+      "msg": "the classes for all the names in the chat have the same name"
+    },
+    {
+      "msg_id": "909367150047817771",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:00:23, Sunday, 14-November-2021",
+      "msg": "pls help"
+    },
+    {
+      "msg_id": "909427455360639016",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/909427455121571870/message.txt"
+      ],
+      "time": "13:00:01, Sunday, 14-November-2021",
+      "msg": ""
+    },
+    {
+      "msg_id": "909455457536593961",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "14:51:17, Sunday, 14-November-2021",
+      "msg": "*waits for 6 more mins*"
+    },
+    {
+      "msg_id": "909455626407669840",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "14:51:58, Sunday, 14-November-2021",
+      "msg": "<:dark:908501712850022430>"
+    },
+    {
+      "msg_id": "911150239266795540",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "07:05:45, Friday, 19-November-2021",
+      "msg": "so, here is my theory, discord basically checks whether 2 ppl in a server are somehow at the same page and it probably has like 1 small check to check whether that device has `listen together` = True"
+    },
+    {
+      "msg_id": "911149852182839296",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "07:04:13, Friday, 19-November-2021",
+      "msg": "hmm...i just shifted between my alt and my main(using a plugin), discord for a sec showed that my alt and i were listening together"
+    },
+    {
+      "msg_id": "911150291561381928",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "07:05:57, Friday, 19-November-2021",
+      "msg": "so like, thats how i am able to listen together with u guys"
+    },
+    {
+      "msg_id": "911866687656165396",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "688023206380044306",
+      "time": "06:32:40, Sunday, 21-November-2021",
+      "msg": ":zaHando:"
+    },
+    {
+      "msg_id": "911898335261114408",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "08:38:25, Sunday, 21-November-2021",
+      "msg": "g2"
+    },
+    {
+      "msg_id": "912971383271718962",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "07:42:19, Wednesday, 24-November-2021",
+      "msg": "<:PepeRealizes:701706806497378314>"
+    },
+    {
+      "msg_id": "912999305328091156",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/912999305118384168/unknown.png"
+      ],
+      "time": "09:33:17, Wednesday, 24-November-2021",
+      "msg": "invisible boi"
+    },
+    {
+      "msg_id": "912999549814075432",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:15, Wednesday, 24-November-2021",
+      "msg": "waser was typing"
+    },
+    {
+      "msg_id": "912999564099870730",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:18, Wednesday, 24-November-2021",
+      "msg": "is*"
+    },
+    {
+      "msg_id": "912999609708716102",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:29, Wednesday, 24-November-2021",
+      "msg": "are u trolling"
+    },
+    {
+      "msg_id": "912999647625240576",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:38, Wednesday, 24-November-2021",
+      "msg": "awesome"
+    },
+    {
+      "msg_id": "912999754370281522",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:35:04, Wednesday, 24-November-2021",
+      "msg": "ughhh"
+    },
+    {
+      "msg_id": "912999731456782346",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:58, Wednesday, 24-November-2021",
+      "msg": "ARE YOU FUCKING TROLLING"
+    },
+    {
+      "msg_id": "912999706563584061",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:52, Wednesday, 24-November-2021",
+      "msg": "JUST SEND YOUR FUCKING MESSAGE"
+    },
+    {
+      "msg_id": "912999661713907723",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:34:42, Wednesday, 24-November-2021",
+      "msg": "hmm"
+    },
+    {
+      "msg_id": "912999834213036063",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:35:23, Wednesday, 24-November-2021",
+      "msg": "yeah, just click on enter"
+    },
+    {
+      "msg_id": "912999854102421524",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:35:27, Wednesday, 24-November-2021",
+      "msg": "<@!688023206380044306>"
+    },
+    {
+      "msg_id": "912999926273822730",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:35:45, Wednesday, 24-November-2021",
+      "msg": "hm"
+    },
+    {
+      "msg_id": "912999953226407976",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:35:51, Wednesday, 24-November-2021",
+      "msg": "pretty sure my bot just pinged u"
+    },
+    {
+      "msg_id": "913000318076321802",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "09:37:18, Wednesday, 24-November-2021",
+      "msg": "past or present?"
+    },
+    {
+      "msg_id": "915480020267458632",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "687348489109372971",
+      "time": "05:50:45, Wednesday, 01-December-2021",
+      "msg": ":abhinavdisappointednoises:"
+    },
+    {
+      "msg_id": "915480023685799936",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "821234585508511754",
+      "time": "05:50:46, Wednesday, 01-December-2021",
+      "msg": ":abhinavdisappointednoises:"
+    },
+    {
+      "msg_id": "915491148548685844",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:34:58, Wednesday, 01-December-2021",
+      "msg": "oh shit"
+    },
+    {
+      "msg_id": "915491463373131806",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:36:13, Wednesday, 01-December-2021",
+      "msg": "?everyone"
+    },
+    {
+      "msg_id": "915491489218433025",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:36:20, Wednesday, 01-December-2021",
+      "msg": "ugh"
+    },
+    {
+      "msg_id": "915491155007901726",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:35:00, Wednesday, 01-December-2021",
+      "msg": "bruh"
+    },
+    {
+      "msg_id": "915491576355123220",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:36:40, Wednesday, 01-December-2021",
+      "msg": "?everyone"
+    },
+    {
+      "msg_id": "915491553374535680",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "719923835373223992",
+      "time": "06:36:35, Wednesday, 01-December-2021",
+      "msg": ""
+    },
+    {
+      "msg_id": "915491126155280445",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:34:53, Wednesday, 01-December-2021",
+      "msg": "?everyone"
+    },
+    {
+      "msg_id": "915492038416429086",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:38:30, Wednesday, 01-December-2021",
+      "msg": "in <#747763296072892486>"
+    },
+    {
+      "msg_id": "915492069504606218",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "629243339379834880",
+      "time": "06:38:38, Wednesday, 01-December-2021",
+      "msg": "or <#697697074959089664>"
+    },
+    {
+      "msg_id": "923232244791902229",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "688023206380044306",
+      "time": "15:15:19, Wednesday, 22-December-2021",
+      "msg": "perks of livin' in sky"
+    },
+    {
+      "msg_id": "923250583899611186",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/923250583715078174/unknown.png"
+      ],
+      "time": "16:28:12, Wednesday, 22-December-2021",
+      "msg": "hmm nice"
+    },
+    {
+      "msg_id": "923251229574959104",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/923251229314940959/unknown.png"
+      ],
+      "time": "16:30:46, Wednesday, 22-December-2021",
+      "msg": "awesome"
+    },
+    {
+      "msg_id": "923251959715217448",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/923251959266443304/unknown.png",
+        "https://media.discordapp.net/attachments/697699660067897374/923251959471935498/unknown.png"
+      ],
+      "time": "16:33:40, Wednesday, 22-December-2021",
+      "msg": "hmm"
+    },
+    {
+      "msg_id": "923252931745165433",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "attachments": [
+        "https://media.discordapp.net/attachments/697699660067897374/923252931606745128/unknown.png",
+        "https://media.discordapp.net/attachments/697699660067897374/923252931858427924/unknown.png"
+      ],
+      "time": "16:37:32, Wednesday, 22-December-2021",
+      "msg": "hmm"
+    },
+    {
+      "msg_id": "923254554739474473",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "497352662451224578",
+      "time": "16:43:59, Wednesday, 22-December-2021",
+      "msg": "<:pog:887945533900087326>"
+    },
+    {
+      "msg_id": "923258231898386523",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "688023206380044306",
+      "time": "16:58:35, Wednesday, 22-December-2021",
+      "msg": "pls talk bout adulthood, i like adults :)"
+    },
+    {
+      "msg_id": "923270733856124939",
+      "guild_id": "697493731611508737",
+      "channel_id": "697699660067897374",
+      "user_id": "687348489109372971",
+      "time": "17:48:16, Wednesday, 22-December-2021",
+      "msg": "I think most scientists weren't 'normal'"
+    }
+  ]
+}

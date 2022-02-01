@@ -1,0 +1,10 @@
+language="python3"
+run = """
+pip install -U git+https://github.com/Pycord-Development/pycord
+pip install pytz
+pip install beautifulsoup4
+python main.py
+"""
+
+[packager]
+ignoredPackages=["discord.py", "discord"]
