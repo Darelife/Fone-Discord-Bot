@@ -27,7 +27,7 @@ class Music(commands.Cog):
         try:
             filePath = f"chordimages/{chord}.png"
             file = discord.File(filePath)
-            embed.set_image(url=f"attachment://{chord}.png")
+            embed.set_image(url=f"attachment://chordimages/{chord}.png")
         except:
             pass
         components = " ".join([str(element) for element in chord.components()])
